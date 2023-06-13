@@ -1,4 +1,4 @@
-# High Quality GitHub Repositories
+# 🚀 High Quality GitHub Repositories
 
 This repository provides insights into what makes a GitHub repository high quality. High quality repositories are generally easier to use and contribute to, creating a positive and productive environment for both users and developers.
 
