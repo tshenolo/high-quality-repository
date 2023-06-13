@@ -47,5 +47,5 @@ If you have any questions about contributing, please feel free to contact us. We
 
 ## Thank You
 
-Again, thank you for your help. We appreciate the time and effort you spent contributing to Project Title.
+Again, thank you for your help. We appreciate the time and effort you spent contributing to High Quality GitHub Repositories.
 
