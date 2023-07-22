@@ -43,3 +43,7 @@ While there are many aspects that can contribute to a high quality GitHub reposi
 
 We welcome contributions to this guide. If you have insights into what makes a GitHub repository high quality, please feel free to open an issue or create a pull request. Please make sure to read our [contributing guide](CONTRIBUTING.md) before making a contribution.
 
+## Thank you for the Support
+- ⭐ Give this repo a ⭐ star ⭐ at the top of the page
+- 🐦 Follow me on twitter [twitter](https://twitter.com/tshenolo)
+- 📺 Subscribe to my [Youtube channel](https://www.youtube.com/@tshenolo?sub_confirmation=1)
