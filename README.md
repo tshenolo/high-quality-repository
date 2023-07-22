@@ -33,7 +33,7 @@ High quality repositories are open to contributions from others. They have a cle
 
 ## High Quality README Template
 
-A high quality README file is a critical part of any repository. It provides key information about the project, how to install it, how to use it, and how to contribute. Here is a [High Quality README Template](https://github.com/tshenolo/repo/blob/main/README_TEMPLATE.md) you can use as a starting point.
+A high quality README file is a critical part of any repository. It provides key information about the project, how to install it, how to use it, and how to contribute. Here is a [High Quality README Template](https://github.com/tshenolo/github-template) you can use as a starting point.
 
 ## Conclusion
 
