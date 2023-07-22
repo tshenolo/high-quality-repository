@@ -9,7 +9,7 @@ This repository provides insights into what makes a GitHub repository high quali
 4. [Conclusion](#conclusion)
 5. [Contributing](#contributing)
 
-## Introduction
+## Introduction 
 
 High quality GitHub repositories are those that are not just functionally great but also have clear documentation, organized structure, consistent coding practices and are welcoming to contributions from others. These repositories provide a seamless experience for users who wish to use the software, and for developers who want to contribute.
 
